@@ -1,0 +1,6 @@
+Credentials cache: API:C125E1A6-28AE-483F-A452-5FEED2630DC7
+        Principal: mniang@42QUEBEC.COM
+
+  Issued                Expires               Principal
+Mar  9 09:49:51 2021  Mar  9 19:49:51 2021  krbtgt/42QUEBEC.COM@42QUEBEC.COM
+Mar  9 09:49:53 2021  Mar  9 19:49:51 2021  HTTP/student-storage.42quebec.com@42QUEBEC.COM
